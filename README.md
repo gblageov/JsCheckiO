@@ -1,2 +1,0 @@
-# JsCheckiO
-Example from JsCheckiO
